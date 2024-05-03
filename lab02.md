@@ -3,3 +3,4 @@
 ## Lab 02
 
 ## Things I want to learn more about:
+N/A
